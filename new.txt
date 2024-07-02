@@ -1,3 +1,7 @@
 hello i am new branch master
 
 another new updated bug 
+
+
+
+bug-fix third status
