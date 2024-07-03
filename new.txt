@@ -5,3 +5,5 @@ another new updated bug
 
 
 bug-fix third status
+
+conflict bug find-out 
