@@ -4,3 +4,12 @@ hello i am new branch master
 another update in master branch 
 
 five bug find out
+
+another new updated bug 
+
+
+
+bug-fix third status
+
+
+
