@@ -12,17 +12,23 @@ let istrue ;
 istrue= true
 console.log(istrue);
 
-console.log( Boolean(100))
+
+
+
+// declare the  boolean  value in true and false
+
+let marks =1
+let anothermarks = Boolean(marks)
+console.log(  anothermarks);
+console.log( typeof anothermarks)
 
 
 
 
 
-
-
-
+// convert  number into boolean
 
 let num = 4;
-num = 0;
+num = 1;
 console.log(Boolean(num)
 );

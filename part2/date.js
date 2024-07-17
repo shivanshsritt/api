@@ -4,7 +4,7 @@
 
 let currentdate =new Date;
 
-
+// console.log(currentdate.toString());
 // method of  date 
 
 
@@ -27,6 +27,6 @@ console.log(mybirthday.toDateString());
 
 
 
-let mytimestamp = Date.Now();
-console.log(mytimestamp)
+// let mytimestamp = Date.Now();
+// console.log(mytimestamp)
 
