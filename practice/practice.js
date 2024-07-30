@@ -91,4 +91,4 @@ const newuser = {
   surname   : "srivastava" ,
   }
   };
-  console.log(fulluserName.firstname);
+  console.log(newuser);
