@@ -6,13 +6,10 @@ welcome : function (){
   console.log(`${this.username}, welcome to webisite `);
 }
 }
-
 userinsta.welcome()
 userinsta.username= "hello"
 
 userinsta.welcome()
-
-
 function chai ( ){
   console.log(this);
 }
